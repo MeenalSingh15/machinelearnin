@@ -8,3 +8,6 @@ In 1959 , Arthur Samuel who worked in IBM invented the phrase 'Machine Learning'
 ## Types of Machine Learning
 ![Machine Learning](machine learning types.png)
 ![GitHub Logo](./machinelearnin/machinelearningtypes.png)
+
+
+
