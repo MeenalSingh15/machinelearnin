@@ -6,5 +6,5 @@ statistics and then we design an algorithm that predicts for future use based on
 In 1959 , Arthur Samuel who worked in IBM invented the phrase 'Machine Learning'.
 
 ## Types of Machine Learning
-![Machine Learning](machine learning types.png)
+![Machine Learning](./machine learning types.png)
 
